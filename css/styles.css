@@ -52,7 +52,12 @@ article
 footer
 {
     display: flex;
+    margin-top: 60px;
 }
 footer div {
     flex: 1;
+}
+.copy
+{
+    border-top: 1px solid black;
 }
